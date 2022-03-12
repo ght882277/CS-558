@@ -1,0 +1,6 @@
+figure(1)
+imshow(slic_code('white-tower.png'))
+%figure(2)
+%imshow(slic_code('wt_slic.png'))
+%figure(3)
+%imshow(slic_code('1.jpg'))
